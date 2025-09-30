@@ -1,18 +1,272 @@
+# <div align="center">⚡ **NGUYEN DUC TOAN** ⚡</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/DevToan2k4) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@toanhocit) 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=My%20major%20is%20information%20technology&fontSize=50&fontColor=ffffff&stroke=00ff88&strokeWidth=2&animation=blinking&desc=Building%20the%20Future%20with%20Code&descSize=18&descAlignY=75" width="100%"/>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dev-Toan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dev-Toan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Toan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dev-Toan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%8C%9F+MOBILE+DEVELOPER;Java+%2B+Kotlin" alt="Elite Typing SVG" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dev-Toan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> **EXECUTIVE PROFILE**
+
+<img align="right" alt="Elite Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+class EliteDeveloper {
+  constructor() {
+    this.name = "Nguyen Duc Toan";
+    this.title = "Mobile Developer";
+    this.location = "Vietnam 🇻🇳";
+    this.specialization = "Information Technology"
+  }
+
+  getCurrentStatus() {
+    return {
+      focus: "Building apps that are used by many people",
+      learning: ["Java", "Kotlin", "Jetpack Compose"],
+      working_on: "Scalable microservices ecosystem",
+      philosophy: "Code is poetry, architecture is art"
+    };
+  }
+}
+```
+
+<div align="center">
+
+### 🎯 **MISSION STATEMENT**
+*"Create applications that are widely used in everyday life"*
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **PERFORMANCE METRICS**
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-Toan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Toan&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Toan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=12&exclude_repo=github-readme-stats" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Toan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" width="100%" />
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> **TECHNOLOGY MASTERY**
+
+<div align="center">
+
+### 🔥 **LANGUAGES**
+![C++](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&labelColor=14354C)
+![C#](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
+![Windows Terminal](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+
+### ⚛️ **Hosting/SaaS**
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### 🚀 **FRAMEWORKS, PLATFORMS & LIBRARIES**
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+### 🗄️ **SERVERS**
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+### ☁️ **DATABASES **
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### 🤖 **DESIGN**
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### 🤖 **OTHER**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50"> **ACTIVITY HEATMAP**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Toan&custom_title=Contribution%20Excellence&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&theme=chartreuse-dark" width="100%" />
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> **FLAGSHIP PROJECTS**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 **AI-POWERED SAAS PLATFORM**
+*Enterprise-grade analytics with ML insights*
+
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+
+**Key Features:**
+- 🎯 Real-time ML predictions
+- ⚡ Sub-second response times
+- 🔒 Enterprise-grade security
+- 📈 99.99% uptime SLA
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00ff88?style=for-the-badge)](/) 
+[![Source Code](https://img.shields.io/badge/📱_Source-black?style=for-the-badge&logo=github)](/)
+
+</td>
+<td width="50%">
+
+### 🏗️ **MICROSERVICES ARCHITECTURE**
+*Scalable e-commerce ecosystem*
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+
+**Architecture:**
+- 🔄 Event-driven design
+- 🌐 API Gateway pattern
+- 🔍 Distributed tracing
+- 📊 Real-time monitoring
+
+[![Architecture](https://img.shields.io/badge/🏛️_Architecture-00ff88?style=for-the-badge)](/) 
+[![Documentation](https://img.shields.io/badge/📚_Docs-blue?style=for-the-badge)](/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 **DEVOPS AUTOMATION HUB**
+*CI/CD pipeline with intelligent deployment*
+
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Capabilities:**
+- 🚀 Zero-downtime deployments
+- 📊 Predictive scaling
+- 🔐 Security automation
+- 📈 Performance optimization
+
+[![Pipeline](https://img.shields.io/badge/⚙️_Pipeline-00ff88?style=for-the-badge)](/) 
+[![Metrics](https://img.shields.io/badge/📊_Metrics-orange?style=for-the-badge)](/)
+
+</td>
+<td width="50%">
+
+### 🌟 **BLOCKCHAIN DEFI PROTOCOL**
+*Decentralized finance with smart contracts*
+
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Innovation:**
+- 💰 Automated yield farming
+- 🔄 Cross-chain compatibility
+- 🛡️ Multi-sig security
+- 📱 Mobile-first design
+
+[![DApp](https://img.shields.io/badge/🔗_DApp-00ff88?style=for-the-badge)](/) 
+[![Whitepaper](https://img.shields.io/badge/📄_Whitepaper-purple?style=for-the-badge)](/)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d3.gif" width="50"> **TECHNICAL CERTIFICATIONS**
+
+<div align="center">
+
+| **Cloud Platforms** | **DevOps & Security** | **Architecture** |
+|:---:|:---:|:---:|
+| ![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Expert-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Kubernetes Administrator](https://img.shields.io/badge/Kubernetes_Administrator-CKA-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![System Design](https://img.shields.io/badge/System_Design-Expert-00ff88?style=for-the-badge&logo=systemd&logoColor=white) |
+| ![Azure DevOps Expert](https://img.shields.io/badge/Azure_DevOps-Expert-0078d4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Docker Certified](https://img.shields.io/badge/Docker_Certified-Associate-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Microservices](https://img.shields.io/badge/Microservices-Architect-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white) |
+| ![Google Cloud Professional](https://img.shields.io/badge/GCP_Professional-Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Security+](https://img.shields.io/badge/CompTIA_Security+-Certified-FF0000?style=for-the-badge&logo=comptia&logoColor=white) | ![Enterprise](https://img.shields.io/badge/Enterprise_Architecture-TOGAF-00ff88?style=for-the-badge&logo=enterprise&logoColor=white) |
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"> **ELITE NETWORK**
+
+<div align="center">
+
+### 🌐 **CONNECT WITH THE ARCHITECT**
+
+[![Portfolio](https://img.shields.io/badge/🌟_Elite_Portfolio-00ff88?style=for-the-badge&logo=firefox&logoColor=white)](https://www.dangquochuy.id.vn/)
+[![LinkedIn](https://img.shields.io/badge/💼_Executive_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dangquochuy/)
+[![GitHub](https://img.shields.io/badge/⚡_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Toan)
+[![Email](https://img.shields.io/badge/📧_Direct_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangquochuy.connect@gmail.com)
+
+### 🎯 **COLLABORATION OPPORTUNITIES**
+![Open for Work](https://img.shields.io/badge/💼_ENTERPRISE_CONSULTING-Available-00ff88?style=for-the-badge)
+![Speaking](https://img.shields.io/badge/🎤_TECH_SPEAKING-Available-00ff88?style=for-the-badge)
+![Mentoring](https://img.shields.io/badge/🧠_TECHNICAL_MENTORING-Available-00ff88?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,2,5,30&section=footer&reversal=true&textBg=false&animation=blinking" width="100%"/>
+</div>
+
+<div align="center">
+
+### 💭 **PHILOSOPHY**
+*"In a world of infinite possibilities, architecture is the art of making the impossible, inevitable."*
+
+---
+
+### 🔥 **ELITE STATUS**
+![Coding Time](https://img.shields.io/badge/Coding_Time-12%2B_hours-00ff88?style=for-the-badge&logo=clockify&logoColor=white)
+![Coffee Driven](https://img.shields.io/badge/Coffee_Driven-100%25-00ff88?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Bug Destroyer](https://img.shields.io/badge/Bug_Destroyer-∞-00ff88?style=for-the-badge&logo=debug&logoColor=white)
+
+**⭐ Starred by 1000+ developers** | **🤝 Building the future, one commit at a time**
+
+---
+
+<sub>💎 *Crafted with precision and passion* • *Last updated: August 2025* 💎</sub>
+
+</div>

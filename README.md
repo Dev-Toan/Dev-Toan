@@ -126,8 +126,8 @@ class EliteDeveloper {
 <tr>
 <td width="50%">
 
-### 🚀 **AI-POWERED SAAS PLATFORM**
-*Enterprise-grade analytics with ML insights*
+### 🚀 **PERSONAPP**
+*Quản lý thời gian biểu*
 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -135,13 +135,12 @@ class EliteDeveloper {
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 **Key Features:**
-- 🎯 Real-time ML predictions
-- ⚡ Sub-second response times
-- 🔒 Enterprise-grade security
-- 📈 99.99% uptime SLA
+- 🎯 Lên thời gian biểu cho từng công việc
+- ⚡ Xem thời tiết hôm nay và 5 ngày tới
+- 🔒 Thông báo popup cho từng công việc sắp diễn ra
+- 📈 Hẹn giờ, chế độ tập trung
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00ff88?style=for-the-badge)](/) 
-[![Source Code](https://img.shields.io/badge/📱_Source-black?style=for-the-badge&logo=github)](/)
+[![Source Code](https://github.com/Dev-Toan/PersonApp)](/)
 
 </td>
 <td width="50%">
@@ -233,6 +232,6 @@ class EliteDeveloper {
 
 ---
 
-<sub>💎 *Crafted with precision and passion* • *Last updated: August 2025* 💎</sub>
+<sub>💎 *Crafted with precision and passion* • *Last updated: October 2025* 💎</sub>
 
 </div>

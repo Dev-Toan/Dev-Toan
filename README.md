@@ -160,7 +160,7 @@ class EliteDeveloper {
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" colspan="2">
 
 ### 🤖 **Quản lý vật tư y tế**
 *btl thiết kế web nâng cao*

@@ -213,40 +213,6 @@ class EliteDeveloper {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d3.gif" width="50"> **TECHNICAL CERTIFICATIONS**
-
-<div align="center">
-
-| **Cloud Platforms** | **DevOps & Security** | **Architecture** |
-|:---:|:---:|:---:|
-| ![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Expert-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Kubernetes Administrator](https://img.shields.io/badge/Kubernetes_Administrator-CKA-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![System Design](https://img.shields.io/badge/System_Design-Expert-00ff88?style=for-the-badge&logo=systemd&logoColor=white) |
-| ![Azure DevOps Expert](https://img.shields.io/badge/Azure_DevOps-Expert-0078d4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Docker Certified](https://img.shields.io/badge/Docker_Certified-Associate-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Microservices](https://img.shields.io/badge/Microservices-Architect-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white) |
-| ![Google Cloud Professional](https://img.shields.io/badge/GCP_Professional-Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Security+](https://img.shields.io/badge/CompTIA_Security+-Certified-FF0000?style=for-the-badge&logo=comptia&logoColor=white) | ![Enterprise](https://img.shields.io/badge/Enterprise_Architecture-TOGAF-00ff88?style=for-the-badge&logo=enterprise&logoColor=white) |
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"> **ELITE NETWORK**
-
-<div align="center">
-
-### 🌐 **CONNECT WITH THE ARCHITECT**
-
-[![Portfolio](https://img.shields.io/badge/🌟_Elite_Portfolio-00ff88?style=for-the-badge&logo=firefox&logoColor=white)](https://www.dangquochuy.id.vn/)
-[![LinkedIn](https://img.shields.io/badge/💼_Executive_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dangquochuy/)
-[![GitHub](https://img.shields.io/badge/⚡_Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Toan)
-[![Email](https://img.shields.io/badge/📧_Direct_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangquochuy.connect@gmail.com)
-
-### 🎯 **COLLABORATION OPPORTUNITIES**
-![Open for Work](https://img.shields.io/badge/💼_ENTERPRISE_CONSULTING-Available-00ff88?style=for-the-badge)
-![Speaking](https://img.shields.io/badge/🎤_TECH_SPEAKING-Available-00ff88?style=for-the-badge)
-![Mentoring](https://img.shields.io/badge/🧠_TECHNICAL_MENTORING-Available-00ff88?style=for-the-badge)
-
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,2,5,30&section=footer&reversal=true&textBg=false&animation=blinking" width="100%"/>
 </div>

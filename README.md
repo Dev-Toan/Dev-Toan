@@ -133,7 +133,7 @@ class EliteDeveloper {
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Key Features:**
-- 🎯 Lên thời gian biểu cho từng công việc
+- 🎯 Lên thời gian biểu cho từng công việc(Thêm, sửa, xóa)
 - ⚡ Xem thời tiết hôm nay và 5 ngày tới
 - 🔒 Thông báo popup cho từng công việc sắp diễn ra
 - 📈 Hẹn giờ, chế độ tập trung
@@ -143,22 +143,19 @@ class EliteDeveloper {
 </td>
 <td width="50%">
 
-### 🏗️ **MICROSERVICES ARCHITECTURE**
-*Scalable e-commerce ecosystem*
+### 🏗️ **TIMEAPP**
+*btl Phát triển ứng dụng trên thiết bị di động*
 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Architecture:**
-- 🔄 Event-driven design
-- 🌐 API Gateway pattern
-- 🔍 Distributed tracing
-- 📊 Real-time monitoring
+- 🔄 Đăng ký, đăng nhập đơn giản
+- 🌐 Hẹn giờ từng công việc(thêm, sửa, xóa)
+- 🔍 Thống kê công việc đã hoàn thành và chưa hoàn thành
+- 📊 Sao lưu dữ liệu bằng file 
 
-[![Architecture](https://img.shields.io/badge/🏛️_Architecture-00ff88?style=for-the-badge)](/) 
-[![Documentation](https://img.shields.io/badge/📚_Docs-blue?style=for-the-badge)](/)
+[![Source Code](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/TimeApp)
 
 </td>
 </tr>

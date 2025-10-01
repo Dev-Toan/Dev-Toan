@@ -140,7 +140,7 @@ class EliteDeveloper {
 - 🔒 Thông báo popup cho từng công việc sắp diễn ra
 - 📈 Hẹn giờ, chế độ tập trung
 
-[![Source Code]([https://img.shields.io/badge/📱_Source-black?style=for-the-badge&logo=github](https://github.com/Dev-Toan/PersonApp))](/)
+[![Source Code](https://img.shields.io/badge/📱_Source-black?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/PersonApp)
 
 </td>
 <td width="50%">

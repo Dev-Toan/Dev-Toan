@@ -149,55 +149,36 @@ class EliteDeveloper {
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Architecture:**
+**Key Features:**
 - 🔄 Đăng ký, đăng nhập đơn giản
 - 🌐 Hẹn giờ từng công việc(thêm, sửa, xóa)
 - 🔍 Thống kê công việc đã hoàn thành và chưa hoàn thành
-- 📊 Sao lưu dữ liệu bằng file 
+- 📊 Sao lưu dữ liệu bằng file json
 
 [![Source Code](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/TimeApp)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🤖 **DEVOPS AUTOMATION HUB**
-*CI/CD pipeline with intelligent deployment*
+### 🤖 **Quản lý vật tư y tế**
+*btl thiết kế web nâng cao*
 
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-**Capabilities:**
-- 🚀 Zero-downtime deployments
-- 📊 Predictive scaling
-- 🔐 Security automation
-- 📈 Performance optimization
+**Key Features:**
+- 🚀 Đăng ký, đăng nhập
+- 📊 Phân quyền người dùng
+- 🔐 JSON Server (Fake REST API)
+- 📈 Biểu đồ thống kê theo tháng
 
-[![Pipeline](https://img.shields.io/badge/⚙️_Pipeline-00ff88?style=for-the-badge)](/) 
-[![Metrics](https://img.shields.io/badge/📊_Metrics-orange?style=for-the-badge)](/)
-
-</td>
-<td width="50%">
-
-### 🌟 **BLOCKCHAIN DEFI PROTOCOL**
-*Decentralized finance with smart contracts*
-
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Innovation:**
-- 💰 Automated yield farming
-- 🔄 Cross-chain compatibility
-- 🛡️ Multi-sig security
-- 📱 Mobile-first design
-
-[![DApp](https://img.shields.io/badge/🔗_DApp-00ff88?style=for-the-badge)](/) 
-[![Whitepaper](https://img.shields.io/badge/📄_Whitepaper-purple?style=for-the-badge)](/)
+[![Source Code](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/Web-quan-ly-vat-tu-y-te)
 
 </td>
 </tr>

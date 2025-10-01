@@ -160,7 +160,8 @@ class EliteDeveloper {
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
+<td align="center" colspan="2">
+<div style="width:50%;margin:auto">
 
 ### 🤖 **Quản lý vật tư y tế**
 *btl thiết kế web nâng cao*
@@ -180,6 +181,7 @@ class EliteDeveloper {
 
 [![Source Code](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/Web-quan-ly-vat-tu-y-te)
 
+</div>
 </td>
 </tr>
 </table>

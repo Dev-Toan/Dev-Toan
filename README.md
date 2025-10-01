@@ -160,7 +160,6 @@ class EliteDeveloper {
 </td>
 </tr>
 <tr>
-<td></td>
 <td width="50%" align="center">
 
 ### 🤖 **Quản lý vật tư y tế**

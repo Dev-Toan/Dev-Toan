@@ -130,7 +130,7 @@ class EliteDeveloper {
 
 <td width="50%">
 
-### 🏗️ **Person APP**
+### 🪪 **Person APP**
 *Ứng dụng quản lý thời gian và sự kiện kèm thông tin thời tiết*
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)

@@ -127,6 +127,24 @@ class EliteDeveloper {
 [![Video Demo](https://img.shields.io/badge/Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Q7fRUupIjI8?si=-D3aWahUT6_3XS9G)
 
 </td>
+
+<td width="50%">
+
+### 🏗️ **TIMEAPP**
+*btl Phát triển ứng dụng trên thiết bị di động*
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Key Features:**
+- 🔄 Đăng ký, đăng nhập đơn giản
+- 🌐 Hẹn giờ từng công việc(thêm, sửa, xóa)
+- 🔍 Thống kê công việc đã hoàn thành và chưa hoàn thành
+- 📊 Sao lưu dữ liệu bằng file json
+
+[![Source Code](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/TimeApp)
+
+</td>
 <td width="50%">
 
 ### 🏗️ **TIMEAPP**

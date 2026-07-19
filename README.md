@@ -130,19 +130,19 @@ class EliteDeveloper {
 
 <td width="50%">
 
-### 🏗️ **TIMEAPP**
-*btl Phát triển ứng dụng trên thiết bị di động*
+### 🏗️ **Person APP**
+*Ứng dụng quản lý thời gian và sự kiện kèm thông tin thời tiết*
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=for-the-badge&logo=openweathermap&logoColor=white)
 
 **Key Features:**
-- 🔄 Đăng ký, đăng nhập đơn giản
-- 🌐 Hẹn giờ từng công việc(thêm, sửa, xóa)
-- 🔍 Thống kê công việc đã hoàn thành và chưa hoàn thành
-- 📊 Sao lưu dữ liệu bằng file json
+- ⏰ **Đồng hồ & Báo thức:** Hiển thị thời gian thực và cài đặt báo thức cơ bản.
+- 📅 **Quản lý lịch & Sự kiện:** Cung cấp đầy đủ thao tác quản lý sự kiện (thêm, sửa, xóa và xem toàn bộ danh sách).
+- 🌤️ **Thời tiết & Dự báo:** Theo dõi chi tiết thời tiết trong ngày và xem dự báo cho nhiều ngày tới.
+- 📍 **Định vị tự động:** Tự động trích xuất vị trí hiện tại để cập nhật dữ liệu thời tiết một cách chính xác nhất.
 
-[![Source Code](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/TimeApp)
+[![Source Code](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/PersonApp)
 
 </td>
 </tr>

@@ -124,6 +124,7 @@ class EliteDeveloper {
 - 🔒 quản lý truy cập webAdmin để quản lý nhà hàng
 
 [![Source Code](https://img.shields.io/badge/📱_Readme-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/readme-DucToanRestauran)
+[![Video Demo](https://img.shields.io/badge/Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([LINK_YOUTUBE_CỦA_BẠN](https://youtu.be/Q7fRUupIjI8?si=-D3aWahUT6_3XS9G))
 
 </td>
 <td width="50%">

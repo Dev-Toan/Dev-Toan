@@ -177,10 +177,10 @@ class EliteDeveloper {
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 **Key Features:**
--🚀 Đăng ký, đăng nhập
--📊 Phân quyền người dùng
--🔐 JSON Server (Fake REST API)
--📈 Biểu đồ thống kê theo tháng
+- 🚀 Đăng ký, đăng nhập
+- 📊 Phân quyền người dùng
+- 🔐 JSON Server (Fake REST API)
+- 📈 Biểu đồ thống kê theo tháng
 
 [![Source Code](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/Web-quan-ly-vat-tu-y-te)
 

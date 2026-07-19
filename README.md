@@ -145,7 +145,9 @@ class EliteDeveloper {
 [![Source Code](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/TimeApp)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+  <td width="50%">
 
 ### 🏗️ **TIMEAPP**
 *btl Phát triển ứng dụng trên thiết bị di động*
@@ -162,8 +164,6 @@ class EliteDeveloper {
 [![Source Code](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/TimeApp)
 
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" colspan="2">
 
 ### 🤖 **Quản lý vật tư y tế**

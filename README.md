@@ -110,7 +110,12 @@ class EliteDeveloper {
 ### 🚀 **DucToanRestaurant**
 *Hệ thống đặt trước bàn và món ăn cho nhà nhà DucToanRestaurant*
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Key Features:**
 - 🎯 Khách hàng đặt trước bàn và món ăn, quản lý các đơn đặt hàng. Chat với nhân viên hỗ trợ hoặc Chatbot AI
@@ -118,7 +123,7 @@ class EliteDeveloper {
 - 📈 Phân quyền các chức năng cho bếp, thu ngân, quản lý
 - 🔒 quản lý truy cập webAdmin để quản lý nhà hàng
 
-[![Readme](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/readme-DucToanRestauran)
+[![Source Code](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/readme-DucToanRestauran)
 
 </td>
 <td width="50%">

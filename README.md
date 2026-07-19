@@ -118,7 +118,7 @@ class EliteDeveloper {
 - 📈 Phân quyền các chức năng cho bếp, thu ngân, quản lý
 - 🔒 quản lý truy cập webAdmin để quản lý nhà hàng
 
-[![Source Code](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/DToanDoAn)
+[![Readme](https://img.shields.io/badge/📱_Source-orange?style=for-the-badge&logo=github)](https://github.com/Dev-Toan/readme-DucToanRestauran)
 
 </td>
 <td width="50%">
